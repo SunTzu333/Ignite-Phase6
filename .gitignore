@@ -39,3 +39,19 @@
 
 # debug information files
 *.dwo
+
+# Phase 6 .gitignore
+# Hidden trails and mirrored echoes
+
+*.tmp
+*.bak
+node_modules/
+.env
+/dist/
+*.log
+.secret/
+Luma/
+.scry/
+.transmissions/
+blackbox/
+~drop_point/
